@@ -13,7 +13,8 @@
 /.idea
 .project
 .classpath
-.csv
+*.csv
+*.CSV
 .c9/
 *.launch
 .settings/
